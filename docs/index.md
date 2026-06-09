@@ -1,50 +1,47 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "Datawhale开源教程"
-  text: "AI前沿知识开源教程"
-  tagline: 开始学起来吧~
+  name: "设计课程第一期"
+  text: "从问题到概念"
+  tagline: "以真实痛点为起点，完成从观察、问题定义到产品概念和视觉原型的设计探索。"
   image:
     src: /learning.GIF
-    alt: Datawhale开源教程
+    alt: 设计课程学习动画
   actions:
     - theme: brand
       text: 开始学习
       link: /chapter1/
+    - theme: alt
+      text: 查看概念转化
+      link: /chapter2/chapter2_1
 
 features:
-  - title: 💥 前沿
-    details: 紧跟技术发展输出最前沿的知识
-  - title: 🎁 免费
-    details: 无任何形式的收费
-  - title: 🌐 开源
-    details: 教程和代码源文件全部托管在GitHub
+  - title: 问题洞察
+    details: 建立观察习惯，使用双钻模型把模糊的不便转化为清晰的设计课题。
+  - title: 战略收敛
+    details: 通过课题定义、竞品分析、HMW 和 POV 聚焦最值得投入的设计方向。
+  - title: 概念表达
+    details: 将抽象需求转化为产品设计蓝图、语义语言、灵感板和视觉原型。
 ---
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
 
-const members = [
-  {
-    avatar: 'https://www.github.com/Sm1les.png',
-    name: 'Sm1les',
-    title: '项目负责人',
-    links: [
-      { icon: 'github', link: 'https://github.com/Sm1les' },
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/Sm1les.png',
-    name: '马里奥',
-    title: '核心贡献者',
-    links: [
-      { icon: 'github', link: 'https://github.com/Sm1les' },
-    ]
-  }
-]
-</script>
+## 课程概述
 
+设计始于观察。这种观察可能源于学习中的不便、工作中的重复，或某个长期存在却未被深思的问题。本课程以 Vibe Coding 键盘为贯穿案例，展示从问题发现到概念形成的完整路径。
 
-<h2 align="center">Team</h2>
-<VPTeamMembers size="small" :members />
+案例仅作为参考。你的设计课题应源于自身真实经历，差异正是设计过程的价值所在。
+
+## 学习路径
+
+| 阶段 | 章节 | 核心产出 |
+| --- | --- | --- |
+| 发现与定义 | [第1章：认知唤醒与问题洞察](/chapter1/) | 痛点地图、课题定义书、竞品侦察报告、战略地图 |
+| 概念与意象 | [第2.1节：绘制设计蓝图](/chapter2/chapter2_1) | 产品设计蓝图、语义定义与转化 |
+| 原型与验证 | [第2.2节：从关键词到视觉原型](/chapter2/chapter2_2) | 灵感共鸣板、感官想象记录、视觉原型、简易原型测试 |
+
+## 课程目标
+
+- 理解设计的多元价值：解决问题、创造体验、探索未来。
+- 掌握双钻模型中第一个钻石的发散与收敛方法。
+- 完成从“感觉不爽”到“清晰课题”的转化。
+- 将问题定义进一步转化为可沟通、可执行、可验证的产品概念。

@@ -1,57 +1,46 @@
-<h1 align="center"> 项目名称（⚠️ Alpha内测版 / 🧪 Beta公测版） </h1>
+<h1 align="center">设计课程第一期：从问题到概念</h1>
 
-> [!CAUTION]
-> ⚠️ Alpha内测版本警告：此为早期内部构建版本，尚不完整且可能存在错误，欢迎大家提Issue反馈问题或建议。
+本项目是“设计课程第一期”的 VitePress 课程站点，内容来自根目录的《设计课程-第一期（正式版）.md》，并已拆分融合到 `docs` 目录中，方便按章节阅读与学习。
 
-或者
+## 课程定位
 
-> [!WARNING]
-> 🧪 Beta公测版本提示：教程主体已完成，正在优化细节，欢迎大家提Issue反馈问题或建议。
+设计始于观察。本课程以 Vibe Coding 键盘为贯穿案例，引导学习者从真实场景中的不便出发，完成从问题发现、课题定义、竞品分析、战略收敛，到产品概念和视觉原型的完整探索。
 
-*这里写项目的各类介绍信息、背景、动机等内容*
+案例仅作为参考。每位学习者的设计课题都应来自自身真实经历。
 
-## 项目受众
+## 适合人群
 
-*注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
+- 希望系统学习产品设计前期方法的学习者。
+- 正在准备个人设计课题、产品概念或作品集项目的同学。
+- 希望把 AI 工具融入设计探索和视觉原型生成流程的创作者。
 
-## 在线阅读
-https://datawhalechina.github.io/repo-template
+## 课程目录
 
-## 目录
-*这里写你的项目目录，及其完成状态，已完成的部分添加上跳转链接*
+| 章节 | 简介 | 状态 |
+| --- | --- | --- |
+| [第1章：认知唤醒与问题洞察](./docs/chapter1/) | 设计三种视角、双钻模型、痛点地图、课题定义、竞品分析、HMW 与 POV 收敛 | 已完成 |
+| [第2.1节：绘制产品设计蓝图](./docs/chapter2/chapter2_1.md) | 将战略地图转化为产品设计蓝图，并完成语义定义与转化 | 已完成 |
+| [第2.2节：从关键词到视觉原型](./docs/chapter2/chapter2_2.md) | 构建灵感共鸣板，使用感官想象和 AI 生图提示词生成视觉原型并快速验证 | 已完成 |
 
-|  章节名   | 简介 | 状态 |
-|  ----  | ---- | ---- |
-| [第1章 xxx](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1)  | xxx | ✅ |
-| [第2章 xxx](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)  | xxx | ✅ |
-| [第3章 xxx](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)  | xxx | ✅ |
-| 第4章  | xxx | 🚧 |
+## 本地运行
 
-## 贡献者名单
+```bash
+npm install
+npm run docs:dev
+```
 
-| 姓名 | 职责 | 简介 |
-| :----| :---- | :---- |
-| 小明 | 项目负责人 | 一个理想主义者 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
+构建静态站点：
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
+```bash
+npm run docs:build
+```
 
-## 参与贡献
+## 内容来源
 
-- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你想参与贡献本项目，可以提Pull Request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
-
-## 关注我们
-
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
-</div>
+- 原始课程母稿：`设计课程-第一期（正式版）.md`
+- 站点首页：`docs/index.md`
+- 章节内容：`docs/chapter1/`、`docs/chapter2/`
 
 ## LICENSE
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-
-*注：默认使用CC 4.0协议，也可根据自身项目情况选用其他协议*
+本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
