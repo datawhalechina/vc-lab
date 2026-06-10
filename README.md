@@ -7,7 +7,7 @@
 ## 项目受众
 
 本课程面向对设计、硬件、AI或产品创新有好奇心的学习者，包括但不限于：
-- 想要入门设计思维的学生
+- 想要入门设计思维的学习者
 - 希望提升创新能力的产品经理
 - 想要用设计思维解决问题的创业者
 
@@ -53,7 +53,7 @@
 ## 关注我们
 
 扫描下方二维码关注公众号：Datawhale
-
+<img width="419" height="419" alt="image" src="https://github.com/user-attachments/assets/42c9550a-509b-45f3-8027-b808b3369b11" />
 ## LICENSE
 
 本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
