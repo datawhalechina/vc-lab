@@ -1,8 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '设计思维创造营',
+  title: '设计课程第一期',
   description: '用14天，从生活洞察出发，亲手将模糊的"不爽"变成可视化产品概念',
+  base: '/VC-Lab/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
