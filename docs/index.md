@@ -115,7 +115,7 @@ title: 设计课程第一期
 ## 🚀 章节导航
 
 <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 2rem;">
-  <a href="chapter1/" class="nav-card">
+  <a href="/VC-Lab/chapter1/" class="nav-card">
     <div class="nav-card-icon">🎨</div>
     <div class="nav-card-title">第一章</div>
     <div class="nav-card-subtitle">认知唤醒与问题洞察</div>
