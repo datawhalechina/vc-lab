@@ -40,15 +40,21 @@
 
 | 姓名 | 职责 | 简介 |
 |---|---|---|
-| 课程团队 | 项目负责人 | Datawhale设计课程团队 |
+| 龙若函 | 项目负责人 | 框架搭建、全文写作与校对 |
+| 韩国富 | 运营负责人 | 全文优化、习题设计、课程校对与平台运营 |
+| 尚启峰 | 联合发起者 | 第一章课程校对、协同优化 |
 
 ## 参与贡献
 
-- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
+- 如果你对本课程有建议、发现问题，或希望参与后续内容完善，请通过以下方式联系我们：
 
-- 如果你想参与贡献本项目，可以提Pull Request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
+- 提交Issue：若发现了问题，可以在GitHub仓库中提交问题反馈。
+- 提交Pull Request：若想参与贡献本项目，可以在GitHub仓库中拉取请求。
+- 如果提交后无人回复，请联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
 
 - 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
+
+- 我们期待与您一起，让设计课程越来越好。
 
 ## 关注我们
 
