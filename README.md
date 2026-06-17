@@ -53,8 +53,8 @@
 | 章节名 | 简介 | 状态 |
 |---|---|---|
 | [第1章 认知唤醒与问题洞察](https://github.com/Peter-303/VC-Lab/blob/main/docs/chapter1) | 建立设计视角，学习双钻模型，绘制痛点地图 | ✅ |
-| [第2章 战略分析与概念定义](https://github.com/Peter-303/VC-Lab/blob/main/docs/chapter2) | 竞品分析，定义POV，绘制产品蓝图 | ✅ |
-| [第3章 视觉创造与成果展示](https://github.com/Peter-303/VC-Lab/blob/main/docs/chapter3) | AI视觉生成，概念选择，制作故事板 | ✅ |
+| [第2章 产品概念与意象转化](https://github.com/Peter-303/VC-Lab/blob/main/docs/chapter2) | 竞品分析，定义POV，绘制产品蓝图 | ✅ |
+| [第3章 概念深化与成果交付](https://github.com/Peter-303/VC-Lab/blob/main/docs/chapter3) | AI视觉生成，概念选择，制作故事板 | ✅ |
 
 ## 贡献者名单
 
